@@ -5,7 +5,7 @@ describe('getData', () => {
     const data = await getData();
     expect(data).toEqual(
       {
-       name:SpaceX
+       name:'SpaceX'
       }
     );
   });
