@@ -58,7 +58,7 @@ npm start
 
 ## Running the tests
 
-Tested using Jest.
+Tested using Jest and Puppeteer.
 
 To start
 
